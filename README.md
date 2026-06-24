@@ -57,7 +57,8 @@ Tables Used:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+<img width="1892" height="744" alt="Dashboard" src="https://github.com/user-attachments/assets/d850368d-4430-426d-a7c7-449677f87404" />
+
 
 ---
 
