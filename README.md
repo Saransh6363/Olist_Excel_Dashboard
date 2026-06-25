@@ -84,3 +84,10 @@ Tables Used:
 📧 raisaransh007@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/saransh-rai-8197893a8/
+
+---
+
+## 📂 Workbook Availability
+
+> **Note:** The complete Excel workbook (62.8 MB) is not included in this repository because it exceeds GitHub's 25 MB web upload limit.  
+> The dashboard was built using Power Pivot, Pivot Tables, Pivot Charts, KPI Cards, and Slicers on the Olist E-commerce dataset.
